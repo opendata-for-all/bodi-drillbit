@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# maven
+**/target
+**/*.versionsBackup
+
+# Generated data/ folder
+**/data/
+
+# Generated public/ folder
+**/public/
+
+# Generated com.xatkit.Bot/ folder
+**/Bot/
+
+# .DS_Store Mac files
+*.DS_Store
+
+# bodi repositories
+**/bodi-nlp-server/
+**/bodi-example-bots/
