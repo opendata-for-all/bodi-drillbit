@@ -1,3 +1,17 @@
+# Visual code classpath
+**/.classpath
+**/.factorypath
+
+# Intellij files
+**/.idea
+*.iml
+
+# Eclipse files
+.settings
+
+# VisualCode files
+.project
+
 # Compiled class file
 *.class
 
